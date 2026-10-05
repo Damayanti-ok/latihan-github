@@ -1,4 +1,4 @@
 Ini adalah latihan github dasar
 - hari ini belajar branch
-- juga belajar checkout
 - belajar clone
+- belajar push
