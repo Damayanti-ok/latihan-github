@@ -2,3 +2,4 @@ Ini adalah latihan github dasar
 - hari ini belajar branch
 - belajar clone
 - belajar push
+Saya mau menambahkan fitur baru
